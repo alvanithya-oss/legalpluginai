@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ffffff"></rect>
+  <text x="100" y="260" font-size="64" font-family="Inter, Arial" fill="#111">
+    LegalPlugin
+  </text>
+  <text x="100" y="340" font-size="32" font-family="Inter, Arial" fill="#444">
+    The category name for Legal AI Plugins
+  </text>
+  <text x="100" y="420" font-size="24" font-family="Inter, Arial" fill="#777">
+    legalplugin.com · legalplugin.ai
+  </text>
+</svg>
